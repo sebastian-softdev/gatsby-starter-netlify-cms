@@ -1,16 +1,30 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Cross Team Pattern Library
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Cross Team Pattern Library
+subheading: Easy as coffee
 mainpitch:
-  title: Why Kaldi
+  title: Why Netlify Cms
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Static + content management = ♥
+
+    Get the speed, security, and scalability of a static site, while still
+    providing a convenient editing interface for content.
+
+
+    An integrated part of your Git workflow
+
+    Content is stored in your Git repository alongside your code for easier
+    versioning, multi-channel publishing, and the option to handle content
+    updates directly in Git.
+
+
+    An extensible CMS built on React
+
+    Netlify CMS is built as a single-page React app. Create custom-styled
+    previews, UI widgets, and editor plugins or add backends to support
+    different Git platform APIs.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +82,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
