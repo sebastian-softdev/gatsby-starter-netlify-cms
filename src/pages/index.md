@@ -3,7 +3,7 @@ templateKey: index-page
 title: Cross Team Pattern Library
 image: /img/home-jumbotron.jpg
 heading: Cross Team Pattern Library
-subheading: Easy as coffee
+subheading: Easy as coffee to edit
 mainpitch:
   title: Why Netlify Cms
   description: >
